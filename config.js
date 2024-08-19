@@ -3,7 +3,7 @@
 //NOTE : cara menjadi publik owner silahkan Pergi ke file; all/database/owner.json
 
 require("./all/module")
-global.owner = "2348102487241" 
+global.owner = "923016883089" 
 global.namaCreator = "єdnut hímsєlf" 
 global.autoJoin = false
 global.antilink = false 
